@@ -21,3 +21,14 @@ Bu proje, Spring Boot kullanarak geliştirilmiş basit bir **Çalışan (Employe
 - MySQL
 - Bootstrap 5
 
+
+## 🖼️ Screenshots
+
+### 1. Employee List
+![Home Page](images/EmployeeList.png)
+
+### 2. Add Employee Page
+![Add Employee Page](images/ShowFormForAdd.png)
+
+### 3. Delete Employee
+![Add Employee Page](images/DeleteEmployee.png)
